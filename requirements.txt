@@ -3,3 +3,5 @@ uvicorn
 sqlalchemy
 psycopg2-binary
 pydantic
+
+#install these dependencies by running pip install -r requirements.txt
